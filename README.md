@@ -9,4 +9,4 @@ Teknoloji: HTML5, CSS3
 
 Kaynak: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 <br />
-
+Demo: https://ndemir9.github.io/frontendmentor.io-qr-code/
